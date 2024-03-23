@@ -5,10 +5,10 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Go India Stocks | GIA Stocks',
+  title: 'Go India Stocks',
   description:
     'Bringing Indian Corporates to Investors. An Investor Relations Company',
-  author: 'Vatsal Singh',
+  author: 'pravesh meena',
   openGraph: {
     title: 'Go India Stocks',
     description:
