@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { Button, SearchBar, UserProfile } from '@/components';
+import { Button } from '@/components';
 
 const Navbar = ({ className }) => {
   return (

@@ -1,4 +1,4 @@
-import { Card, Post, SearchBar } from '@/components';
+import {  Post } from '@/components';
 import posts from '@/content/post';
 
 const Discussion = ({ className }) => {

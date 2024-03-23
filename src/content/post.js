@@ -9,7 +9,7 @@ const posts = [
     },
     post: {
       media: '',
-      text: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, ipsa aut! Inventore unde architecto, nihil impedit error totam mollitia  quibusdam nam, exercitationem beatae autem? Quidem est pariatur eveniet facere odit magnam fugiat quos ad quia eum sint consectetur, in quasi ea veritatis qui ex modi fuga rerum! Neque, dolores nihil.',
+      text: 'Embark on an unforgettable journey through the vibrant landscapes and rich cultures of South America. From the majestic peaks of the Andes to the lush Amazon rainforest, every corner of this continent holds a unique treasure waiting to be discovered.',
       caption:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, repellendus!',
     },
@@ -20,7 +20,7 @@ const posts = [
     tag: 'section-2',
     time: '2024-03-02T21:39:49',
     user: {
-      name: 'Pravesh',
+      name: 'Olivia',
       img: 'https://source.unsplash.com/random/100x100?female,woman,girl',
     },
     post: {
@@ -36,7 +36,7 @@ const posts = [
     tag: 'section-3',
     time: '2024-03-02T19:49:38',
     user: {
-      name: 'Lorem Ipsum',
+      name: 'Benjamin',
       img: 'https://source.unsplash.com/random/100x100?indian,american,person,man',
     },
     post: {
@@ -53,7 +53,7 @@ const posts = [
     tag: 'section-4',
     time: '2024-03-02T19:39:38',
     user: {
-      name: 'Lorem Ipsum',
+      name: 'Frederick',
       img: 'https://source.unsplash.com/random/100x100?indian,american,person,man',
     },
     post: {

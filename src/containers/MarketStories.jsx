@@ -7,7 +7,7 @@ const MarketStories = ({ className }) => {
     <section className={`relative flex-grow w-3/12 p-5 ${className}`}>
       <h1 className='hidden heading-primary md:block'>market stories</h1>
 
-      <div className='grid h-[calc(100vh-180px)] xs:h-[calc(100vh-180px)]  md:h-[calc(100vh-180px)] py-8 gap-5 overflow-scroll grid-cols-fluid'>
+      <div className='grid h-[calc(100vh-180px)] xs:h-[calc(100vh-180px)]  md:h-[calc(100vh-180px)] py-8 gap-5 overflow-scroll grid-cols-1'> 
         {marketStories.map(({ img, text, id, url }) => (
           <Link
             key={id}
@@ -18,7 +18,7 @@ const MarketStories = ({ className }) => {
             <Image
               src={img}
               alt={url}
-              width={300}
+              width={200}
               height={300}
               className='object-cover w-full h-full'
             />
